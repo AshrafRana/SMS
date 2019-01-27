@@ -47,9 +47,13 @@ namespace School_Managment_System
             int i = 0;
             if (messageTextBox.Text != "")
             {
-                string message = smsTitle.Text + "\n" + messageTextBox.Text;
+                //string message = smsTitle.Text + "\n" + messageTextBox.Text;
+                string message =  messageTextBox.Text;
+
                 int smsTitleId = mobileSmsController.defineSMSSelectIdByTitle(smsTitle.Text);
 
+                mobileSmsController.singleSMSSend("03072478313", message, smsTitleId);
+                
                 List<string> contactNo = mobileSmsController.selectAllContactNumbers();
            
                 if (contactNo.Count() > 0)
@@ -66,7 +70,7 @@ namespace School_Managment_System
                             
                             i++;
                         }
-
+                        
                     }
                 }
 
@@ -81,6 +85,12 @@ namespace School_Managment_System
             {
                 MessageBox.Show("Select Message Title");
             }
+            
+            }
+
+        private void existButtn_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

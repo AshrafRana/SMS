@@ -37,11 +37,13 @@
             this.metroLabel7 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel6 = new MetroFramework.Controls.MetroLabel();
             this.messageTextBox = new System.Windows.Forms.RichTextBox();
+            this.existButtn = new MetroFramework.Controls.MetroButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.existButtn);
             this.groupBox1.Controls.Add(this.smsTitle);
             this.groupBox1.Controls.Add(this.CountCharacter);
             this.groupBox1.Controls.Add(this.metroLabel9);
@@ -99,9 +101,9 @@
             this.metroButton1.FontSize = MetroFramework.MetroButtonSize.Tall;
             this.metroButton1.FontWeight = MetroFramework.MetroButtonWeight.Regular;
             this.metroButton1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.metroButton1.Location = new System.Drawing.Point(94, 240);
+            this.metroButton1.Location = new System.Drawing.Point(35, 245);
             this.metroButton1.Name = "metroButton1";
-            this.metroButton1.Size = new System.Drawing.Size(125, 32);
+            this.metroButton1.Size = new System.Drawing.Size(97, 32);
             this.metroButton1.TabIndex = 80;
             this.metroButton1.Text = "Clear";
             this.metroButton1.UseCustomBackColor = true;
@@ -116,7 +118,7 @@
             this.SendBttn.FontSize = MetroFramework.MetroButtonSize.Tall;
             this.SendBttn.FontWeight = MetroFramework.MetroButtonWeight.Regular;
             this.SendBttn.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.SendBttn.Location = new System.Drawing.Point(238, 240);
+            this.SendBttn.Location = new System.Drawing.Point(133, 245);
             this.SendBttn.Name = "SendBttn";
             this.SendBttn.Size = new System.Drawing.Size(128, 32);
             this.SendBttn.TabIndex = 81;
@@ -161,6 +163,23 @@
             this.messageTextBox.TabIndex = 76;
             this.messageTextBox.Text = "";
             // 
+            // existButtn
+            // 
+            this.existButtn.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.existButtn.FontSize = MetroFramework.MetroButtonSize.Tall;
+            this.existButtn.FontWeight = MetroFramework.MetroButtonWeight.Regular;
+            this.existButtn.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.existButtn.Location = new System.Drawing.Point(267, 245);
+            this.existButtn.Name = "existButtn";
+            this.existButtn.Size = new System.Drawing.Size(97, 32);
+            this.existButtn.TabIndex = 87;
+            this.existButtn.Text = "Exit";
+            this.existButtn.UseCustomBackColor = true;
+            this.existButtn.UseCustomForeColor = true;
+            this.existButtn.UseSelectable = true;
+            this.existButtn.UseStyleColors = true;
+            this.existButtn.Click += new System.EventHandler(this.existButtn_Click);
+            // 
             // ComposeForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -190,5 +209,6 @@
         private MetroFramework.Controls.MetroLabel metroLabel7;
         private MetroFramework.Controls.MetroLabel metroLabel6;
         private System.Windows.Forms.RichTextBox messageTextBox;
+        private MetroFramework.Controls.MetroButton existButtn;
     }
 }

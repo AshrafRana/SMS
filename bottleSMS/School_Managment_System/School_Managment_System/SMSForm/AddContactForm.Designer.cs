@@ -196,7 +196,8 @@
             this.mobie1.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
             this.mobie1.CustomButton.UseSelectable = true;
             this.mobie1.CustomButton.Visible = false;
-            this.mobie1.Lines = new string[0];
+            this.mobie1.Lines = new string[] {
+        "03"};
             this.mobie1.Location = new System.Drawing.Point(104, 83);
             this.mobie1.MaxLength = 11;
             this.mobie1.Name = "mobie1";
@@ -209,6 +210,7 @@
             this.mobie1.ShowClearButton = true;
             this.mobie1.Size = new System.Drawing.Size(279, 23);
             this.mobie1.TabIndex = 3;
+            this.mobie1.Text = "03";
             this.mobie1.UseSelectable = true;
             this.mobie1.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.mobie1.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);

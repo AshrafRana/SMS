@@ -27,14 +27,21 @@ namespace School_Managment_System
                 areaNameCombo.Items.Add(item);
             }
         }
-
         
         private void Save_Click(object sender, EventArgs e)
         {
+
             if (compName.Text.Trim() != "" && personName.Text.Trim() != null && mobie1.Text.Trim() != ""  && areaNameCombo.Text.Trim() != "" && addresTextBox.Text.Trim() != "" && compName.Text.Trim() != string.Empty && personName.Text.Trim() != string.Empty && mobie1.Text.Trim() != string.Empty && areaNameCombo.Text.Trim() != string.Empty && addresTextBox.Text.Trim() != string.Empty)
             {
-                MessageBox.Show(mobileSMSController.contactInfoSMSInsert(compName.Text.ToUpper(), personName.Text.ToUpper(), mobie1.Text, mobile2.Text, mobile3.Text, mobile4.Text, phoneNo.Text, areaNameCombo.Text, addresTextBox.Text.ToUpper()));
-            }
+                if (mobie1.Text.Length == 11)
+                {
+                       MessageBox.Show(mobileSMSController.contactInfoSMSInsert(compName.Text.ToUpper(), personName.Text.ToUpper(), mobie1.Text, mobile2.Text, mobile3.Text, mobile4.Text, phoneNo.Text, areaNameCombo.Text, addresTextBox.Text.ToUpper()));
+                }
+                else
+                {
+                    MessageBox.Show("Mobile Number must be 11 digits");
+                }
+             }
             else
             {
                 MessageBox.Show("filed should not be Empty");

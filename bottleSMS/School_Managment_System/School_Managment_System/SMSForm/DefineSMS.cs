@@ -22,7 +22,7 @@ namespace School_Managment_System
 
         private void smsTittle_KeyPress(object sender, KeyPressEventArgs e)
         {
-            var regex = new Regex(@"[^a-zA-Z\s\b]");
+            var regex = new Regex(@"[^a-zA-Z-\s\b]");
             if (regex.IsMatch(e.KeyChar.ToString()))
             {
                 e.Handled = true;
@@ -33,7 +33,7 @@ namespace School_Managment_System
         {
             if (smsTitle.Text != "")
             {
-                MessageBox.Show(mobileSMSController.defineSMSInsert(smsTitle.Text.ToUpper(), smsText.Text.ToUpper()));
+                MessageBox.Show(mobileSMSController.defineSMSInsert(smsTitle.Text, smsText.Text));
                 smsTitle.Text = "";
                 smsText.Text = "";
                 mobileSMSController.defineSMSDataGridView().Clear();
@@ -59,7 +59,7 @@ namespace School_Managment_System
             if (smsTitle.Text != "" && MessgId > 0)
             {
 
-                MessageBox.Show(mobileSMSController.defineSMSTitlesDelete(smsTitle.Text.ToUpper()));
+                MessageBox.Show(mobileSMSController.defineSMSTitlesDelete(smsTitle.Text));
                 smsTitle.Text = "";
                 smsText.Text = "";
                 mobileSMSController.defineSMSDataGridView().Clear();
@@ -92,7 +92,7 @@ namespace School_Managment_System
             if (smsTitle.Text != "" && MessgId > 0)
             {
 
-                MessageBox.Show(mobileSMSController.defineSMSUpdate(MessgId, smsTitle.Text.ToUpper(), smsText.Text.ToUpper()));
+                MessageBox.Show(mobileSMSController.defineSMSUpdate(MessgId, smsTitle.Text, smsText.Text));
                 smsTitle.Text = "";
                 smsText.Text = "";
                 MessgId = 0;

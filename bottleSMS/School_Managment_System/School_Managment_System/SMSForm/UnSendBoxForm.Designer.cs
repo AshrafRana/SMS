@@ -33,6 +33,8 @@
             this.resend = new MetroFramework.Controls.MetroButton();
             this.deleteUnsentSMS = new MetroFramework.Controls.MetroButton();
             this.studentUnsentboxdataGridview = new System.Windows.Forms.DataGridView();
+            this.rowCountTextBox = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.studentUnsentboxdataGridview)).BeginInit();
             this.SuspendLayout();
@@ -115,11 +117,33 @@
             this.studentUnsentboxdataGridview.Size = new System.Drawing.Size(623, 273);
             this.studentUnsentboxdataGridview.TabIndex = 104;
             // 
+            // rowCountTextBox
+            // 
+            this.rowCountTextBox.AutoSize = true;
+            this.rowCountTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rowCountTextBox.Location = new System.Drawing.Point(571, 35);
+            this.rowCountTextBox.Name = "rowCountTextBox";
+            this.rowCountTextBox.Size = new System.Drawing.Size(21, 24);
+            this.rowCountTextBox.TabIndex = 107;
+            this.rowCountTextBox.Text = "0";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(490, 34);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(60, 25);
+            this.label1.TabIndex = 106;
+            this.label1.Text = "Total";
+            // 
             // UnSendBoxForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(640, 417);
+            this.Controls.Add(this.rowCountTextBox);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.studentUnsentboxdataGridview);
             this.MaximizeBox = false;
@@ -131,6 +155,7 @@
             this.panel4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.studentUnsentboxdataGridview)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -141,5 +166,7 @@
         private MetroFramework.Controls.MetroButton resend;
         private MetroFramework.Controls.MetroButton deleteUnsentSMS;
         private System.Windows.Forms.DataGridView studentUnsentboxdataGridview;
+        private System.Windows.Forms.Label rowCountTextBox;
+        private System.Windows.Forms.Label label1;
     }
 }

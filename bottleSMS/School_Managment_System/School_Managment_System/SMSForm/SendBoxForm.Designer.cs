@@ -32,6 +32,8 @@
             this.exitButton = new MetroFramework.Controls.MetroButton();
             this.deleteAll = new MetroFramework.Controls.MetroButton();
             this.studentSentboxdataGridview = new System.Windows.Forms.DataGridView();
+            this.rowCountTextBox = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.studentSentboxdataGridview)).BeginInit();
             this.SuspendLayout();
@@ -96,11 +98,33 @@
             this.studentSentboxdataGridview.Size = new System.Drawing.Size(717, 290);
             this.studentSentboxdataGridview.TabIndex = 104;
             // 
+            // rowCountTextBox
+            // 
+            this.rowCountTextBox.AutoSize = true;
+            this.rowCountTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rowCountTextBox.Location = new System.Drawing.Point(653, 26);
+            this.rowCountTextBox.Name = "rowCountTextBox";
+            this.rowCountTextBox.Size = new System.Drawing.Size(21, 24);
+            this.rowCountTextBox.TabIndex = 109;
+            this.rowCountTextBox.Text = "0";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(572, 25);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(60, 25);
+            this.label1.TabIndex = 108;
+            this.label1.Text = "Total";
+            // 
             // SendBoxForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(729, 426);
+            this.Controls.Add(this.rowCountTextBox);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.studentSentboxdataGridview);
             this.MaximizeBox = false;
@@ -112,6 +136,7 @@
             this.panel4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.studentSentboxdataGridview)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -121,5 +146,7 @@
         private MetroFramework.Controls.MetroButton exitButton;
         private MetroFramework.Controls.MetroButton deleteAll;
         private System.Windows.Forms.DataGridView studentSentboxdataGridview;
+        private System.Windows.Forms.Label rowCountTextBox;
+        private System.Windows.Forms.Label label1;
     }
 }

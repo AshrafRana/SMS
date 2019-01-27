@@ -22,7 +22,7 @@ namespace School_Managment_System
         private void UnSendBoxForm_Load(object sender, EventArgs e)
         {
             studentUnsentboxdataGridview.DataSource = mobileSmsController.selectAllUnsentSMSDataGridView();
-          
+            rowCountTextBox.Text = studentUnsentboxdataGridview.Rows.Count.ToString();
         }
 
         private void exit_Click(object sender, EventArgs e)

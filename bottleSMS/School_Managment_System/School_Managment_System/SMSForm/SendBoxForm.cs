@@ -22,6 +22,7 @@ namespace School_Managment_System
         private void SendBoxForm_Load(object sender, EventArgs e)
         {
             studentSentboxdataGridview.DataSource = mobileSmsController.selectAllSentSMSDataGridView();
+            rowCountTextBox.Text = studentSentboxdataGridview.Rows.Count.ToString();
         }
 
         private void clearAll_Click(object sender, EventArgs e)

@@ -639,7 +639,7 @@ namespace School_Managment_System
                 cmd.Parameters.AddWithValue("@cAddress", addresTextBox);
 
                 int CId = adp.insertGetId(cmd);
-                if (mobie1 != "")
+                if (mobie1 != "" && mobie1.Length == 11)
                 {
                     cmd = new SqlCommand("SMSContactNumbersSp");
                     cmd.Parameters.AddWithValue("@Action", "INSERT");
@@ -648,7 +648,7 @@ namespace School_Managment_System
                     adp.insert(cmd);
                 }
 
-                if (mobile2 != "")
+                if (mobile2 != "" && mobie1.Length == 11)
                 {
                     cmd = new SqlCommand("SMSContactNumbersSp");
                     cmd.Parameters.AddWithValue("@Action", "INSERT");
@@ -656,7 +656,7 @@ namespace School_Managment_System
                     cmd.Parameters.AddWithValue("@mobileNo", mobile2);
                     adp.insert(cmd);
                 }
-                if (mobile3 != "")
+                if (mobile3 != "" && mobie1.Length == 11)
                 {
                     cmd = new SqlCommand("SMSContactNumbersSp");
                     cmd.Parameters.AddWithValue("@Action", "INSERT");
@@ -664,7 +664,7 @@ namespace School_Managment_System
                     cmd.Parameters.AddWithValue("@mobileNo", mobile3);
                     adp.insert(cmd);
                 }
-                if (mobile4 != "")
+                if (mobile4 != "" && mobie1.Length == 11)
                 {
                     cmd = new SqlCommand("SMSContactNumbersSp");
                     cmd.Parameters.AddWithValue("@Action", "INSERT");

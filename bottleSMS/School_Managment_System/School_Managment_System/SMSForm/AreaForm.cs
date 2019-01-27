@@ -28,7 +28,7 @@ namespace School_Managment_System
 
         private void AreaTextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
-            var regex = new Regex(@"[^a-zA-Z0-9\s\b]");
+            var regex = new Regex(@"[^a-zA-Z0-9-/\s\b]");
             if (regex.IsMatch(e.KeyChar.ToString()))
             {
                 e.Handled = true;
