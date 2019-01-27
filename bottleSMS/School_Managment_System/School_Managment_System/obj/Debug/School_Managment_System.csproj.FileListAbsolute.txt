@@ -1,0 +1,1196 @@
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassType.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\school.Schoolinfo.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+C:\Users\Rana\Desktop\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+D:\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+D:\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+D:\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+D:\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+D:\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+D:\jamil\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassType.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\school.Schoolinfo.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Edit_Student.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+D:\jamil\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassType.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\school.Schoolinfo.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Edit_Student.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+C:\Users\Addy\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE80.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj80.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj2.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.School_Managment_System.exe.config
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Schoolinfo.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentDetailReportFrm.resources
+C:\Users\Rana\Desktop\woking\New folder\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Schoolinfo.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Add_Edit_Staff.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Edit_Staff.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffAttendance.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffDetails.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffViewAttendence.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentDetailReportFrm.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+F:\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Schoolinfo.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Add_Edit_Staff.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Edit_Staff.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffAttendance.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffDetails.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffViewAttendence.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentDetailReportFrm.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Block_List_Sms.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Compose_Sms.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Contact_Sms.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupSMS.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Inbox_Sms.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Outbox_Sms.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Phone_Setting.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Sent_Sms.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SMS.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Un_Sent_Sms.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.DefineSMS.resources
+D:\database\project\project\Ashraf\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeePayment.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommServer.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommShared.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommunication.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\PDUConverter.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeePayment.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudnetSentBox.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupContactNo.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Schoolinfo.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Compose_Sms.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.DefineSMS.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupSMS.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Inbox_Sms.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Phone_Setting.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Add_Edit_Staff.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Edit_Staff.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffAttendance.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffDetails.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffViewAttendence.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentDetailReportFrm.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentUnsentBox.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+C:\Users\Ashraf Rana\Desktop\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommServer.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommShared.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommunication.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\PDUConverter.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeePayment.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudnetSentBox.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupContactNo.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Schoolinfo.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Compose_Sms.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.DefineSMS.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupSMS.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Inbox_Sms.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Phone_Setting.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Add_Edit_Staff.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Edit_Staff.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffAttendance.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffDetails.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffViewAttendence.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentDetailReportFrm.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentUnsentBox.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+C:\Users\Ashraf Rana\Desktop\New folder\MobileSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\GSMCommServer.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\GSMCommShared.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\GSMCommunication.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\PDUConverter.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeePayment.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudnetSentBox.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupContactNo.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.MainForm.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Schoolinfo.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Compose_Sms.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.DefineSMS.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupSMS.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Inbox_Sms.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Phone_Setting.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SMS.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Add_Edit_Staff.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Edit_Staff.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffAttendance.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffDetails.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StaffViewAttendence.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentDetailReportFrm.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentUnsentBox.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.Cache
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Framework.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE80.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj80.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Newtonsoft.Json.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj2.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojAssemblyReference.cache
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe.config
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CopyComplete
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommServer.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommShared.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommunication.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\PDUConverter.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Framework.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE80.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj80.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Newtonsoft.Json.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj2.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe.config
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddContactForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AreaForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ContactDetailForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditContactInfoForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudnetSentBox.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupContactNo.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSessionSubject.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LicenseForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.LoginForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SplashForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassFee.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassEntery.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Department.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Designation.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SubjectEntry.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ClassSectionForm.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.FeesType.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Schoolinfo.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SectionEntry.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Session.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Compose_Sms.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.DefineSMS.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.GroupSMS.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Inbox_Sms.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Phone_Setting.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SMS.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentUnsentBox.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddNewStudent.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditStudent.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.studentDetails.resources
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.cache
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CopyComplete
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojAssemblyReference.cache
+D:\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ComposeForm.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojAssemblyReference.cache
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe.config
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddContactForm.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AreaForm.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ComposeForm.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ContactDetailForm.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditContactInfoForm.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudnetSentBox.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.DefineSMS.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Inbox_Sms.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Phone_Setting.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.StudentUnsentBox.resources
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.cache
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommServer.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommShared.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommunication.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\PDUConverter.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE80.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj80.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj2.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rana\Desktop\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CopyComplete
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommServer.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommShared.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\GSMCommunication.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Design.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\MetroFramework.Fonts.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\PDUConverter.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Framework.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\stdole.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\EnvDTE80.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj80.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Newtonsoft.Json.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.MSXML.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\VSLangProj2.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe.config
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AddContactForm.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.AreaForm.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ComposeForm.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.ContactDetailForm.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.EditContactInfoForm.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Properties.Resources.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.DefineSMS.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Inbox_Sms.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.Phone_Setting.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SMS.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.GenerateResource.cache
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CopyComplete
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.SendBoxForm.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.UnSendBoxForm.resources
+D:\Ashraf SMS caster\bottleSMS\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojAssemblyReference.cache
